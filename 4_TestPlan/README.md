@@ -126,7 +126,7 @@ int main(void) { initialise_ports_a1(); initialise_ports_a2(); initialise_ports_
 return 0;  
 
 
-OUTPUT
+OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/101579422/164891398-68fab097-8e7f-4b32-b5c5-e25b34d12ce8.png)
 ![image](https://user-images.githubusercontent.com/101579422/164891409-6c81730f-7202-491d-a0c3-7227d30ac212.png)
